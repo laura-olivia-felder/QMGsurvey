@@ -1,6 +1,6 @@
 ## What is QMGsurvey?
 
-QMGsurvey (released at [GitHub](https://github.com/laurinjfelder/QMGsurvey)) is a Mathematica based program that can be used to analyse quantum matrix geometries, based on the algorithms from [arXiv:2301.10206](https://arxiv.org/abs/2301.10206).
+QMGsurvey (released at [GitHub](https://github.com/laurinjfelder/QMGsurvey)) is a Mathematica based program that can be used to analyse quantum matrix geometries, based on the algorithms from [arXiv:2301.10206](https://arxiv.org/abs/2301.10206). See also [arXiv:2009.03400](https://arxiv.org/abs/2009.03400) by Harold Steinacker for the general construction.
 See [the wiki](https://github.com/laurinjfelder/QMGsurvey/wiki) for more information and documentation.
 
 ## How to use QMGsurvey?
