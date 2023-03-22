@@ -1,0 +1,2 @@
+This project is licensed under Apache License 2.0,
+except for QMGxX.wl which is licensed under CC-BY-4.0.
