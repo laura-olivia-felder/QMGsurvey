@@ -16,7 +16,7 @@ In order to use QMGsurvey.wl and QMGxX.wl, these have to be imported into a Math
 
 ### Documentation
 
-For further documentation, see https://github.com/laurinjfelder/QMGsurvey/wiki.
+For further documentation, see [the wiki](https://github.com/laurinjfelder/QMGsurvey/wiki).
 
 ## Contact
 
