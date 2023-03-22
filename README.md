@@ -20,4 +20,4 @@ For further documentation, see [the wiki](https://github.com/laurinjfelder/QMGsu
 
 ## Contact
 
-You can contact me under laurin.jonathan.felder@univie.ac.at
+You can contact me under laurin.jonathan.felder@univie.ac.at.
