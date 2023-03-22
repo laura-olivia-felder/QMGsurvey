@@ -89,67 +89,67 @@ qmgPlotQM::usage="Plots points in the quantum manifold, represented by points in
 qmgPlotEQS::usage="Plots points in the embedded quantum space, represented by points in target space.";
 
 
-cqmgLightweightINIT::usage="Initialzation function of compiled version of qmgLightweight; cqmgLightweight calculates the lowest eigenstate of the Hamiltonian and the correpsonding eigenvalue at a given point.";
+cqmgLightweightINIT::usage="Initialization function of compiled version of qmgLightweight; cqmgLightweight calculates the lowest eigenstate of the Hamiltonian and the correpsonding eigenvalue at a given point.";
 
 
 cqmgLightweightEXTR::usage="Extraction function of compiled version of qmgLightweight; cqmgLightweight calculates the lowest eigenstate of the Hamiltonian and the correpsonding eigenvalue at a given point.";
 
 
-cqmgBasicINIT::usage="Initialzation function of compiled version of cqmgBasic; cqmgBasic calculates the lowest eigenstate of the Hamiltonian, the correpsonding eigenvalue and many more important quantities like g, omega, the disperion and others at a given point.";
+cqmgBasicINIT::usage="Initialization function of compiled version of cqmgBasic; cqmgBasic calculates the lowest eigenstate of the Hamiltonian, the correpsonding eigenvalue and many more important quantities like g, omega, the disperion and others at a given point.";
 
 
 cqmgBasicEXTR::usage="Extraction function of compiled version of cqmgBasic; cqmgBasic calculates the lowest eigenstate of the Hamiltonian, the correpsonding eigenvalue and many more important quantities like g, omega, the disperion and others at a given point.";
 
 
-cqmgEmbeddingINIT::usage="Initialzation function of compiled version of cqmgEmbedding; cqmgEmbedding calculates the lowest eigenstate of the Hamiltonian, the correpsonding eigenvalue and xBold at a given point.";
+cqmgEmbeddingINIT::usage="Initialization function of compiled version of cqmgEmbedding; cqmgEmbedding calculates the lowest eigenstate of the Hamiltonian, the correpsonding eigenvalue and xBold at a given point.";
 
 
 cqmgEmbeddingEXTR::usage="Extraction function of compiled version of cqmgEmbedding; cqmgEmbedding calculates the lowest eigenstate of the Hamiltonian, the correpsonding eigenvalue and xBold at a given point.";
 
 
-cqmgProjectINIT::usage="For internal use; Initialzation function of cqmgProject; cqmgProject performs the projection in to R^3 for points in target space, the quantum manifold and the embedded quantum space.";
+cqmgProjectINIT::usage="For internal use; Initialization function of cqmgProject; cqmgProject performs the projection in to R^3 for points in target space, the quantum manifold and the embedded quantum space.";
 
 
 cqmgPlot::usage="Compiled unified version of qmgPlotTS, qmgPlotQM and qmgPlotEQS. Plots points in target space, the quantum manifold and the embedded quantum space, represented by points in target space.";
 
 
-cqmgTSleafBasicINIT::usage="Initialzation function of cqmgTSleafBasic, a specialized version of cqmgBasic; cqmgTSleafBasic calculates the lowest eigenstate of the Hamiltonian, theta and xBold for a given point.";
+cqmgTSleafBasicINIT::usage="Initialization function of cqmgTSleafBasic, a specialized version of cqmgBasic; cqmgTSleafBasic calculates the lowest eigenstate of the Hamiltonian, theta and xBold for a given point.";
 
 
 cqmgTSleafBasicEXTR::usage="Extraction function of cqmgTSleafBasic, a specialized version of cqmgBasic; cqmgTSleafBasic calculates the lowest eigenstate of the Hamiltonian, theta and xBold for a given point.";
 
 
-cqmgQMleafBasicINIT::usage="Initialzation function of cqmgQMleafBasic, a specialized version of cqmgBasic; cqmgQMleafBasic calculates the lowest eigenstate of the Hamiltonian, omega and xBold for a given point.";
+cqmgQMleafBasicINIT::usage="Initialization function of cqmgQMleafBasic, a specialized version of cqmgBasic; cqmgQMleafBasic calculates the lowest eigenstate of the Hamiltonian, omega and xBold for a given point.";
 
 
 cqmgQMleafBasicEXTR::usage="Extraction function of cqmgQMleafBasic, a specialized version of cqmgBasic; cqmgQMleafBasic calculates the lowest eigenstate of the Hamiltonian, omega and xBold for a given point.";
 
 
-cqmgGQMleafBasicINIT::usage="Initialzation function of cqmgGQMleafBasic, a specialized version of cqmgBasic; cqmgGQMleafBasic calculates the lowest eigenstate of the Hamiltonian, g and xBold for a given point.";
+cqmgGQMleafBasicINIT::usage="Initialization function of cqmgGQMleafBasic, a specialized version of cqmgBasic; cqmgGQMleafBasic calculates the lowest eigenstate of the Hamiltonian, g and xBold for a given point.";
 
 
 cqmgGQMleafBasicEXTR::usage="Extraction function of cqmgGQMleafBasic, a specialized version of cqmgBasic; cqmgGQMleafBasic calculates the lowest eigenstate of the Hamiltonian, g and xBold for a given point.";
 
 
-cqmgKaehlerBasicINIT::usage="Initialzation function of cqmgKaehlerBasic, a specialized version of cqmgBasic; cqmgKaehlerBasic calculates the lowest eigenstate of the Hamiltonian and CovDer for a given point.";
+cqmgKaehlerBasicINIT::usage="Initialization function of cqmgKaehlerBasic, a specialized version of cqmgBasic; cqmgKaehlerBasic calculates the lowest eigenstate of the Hamiltonian and CovDer for a given point.";
 
 
 cqmgKaehlerBasicEXTR::usage="Extraction function of cqmgKaehlerBasic, a specialized version of cqmgBasic; cqmgKaehlerBasic calculates the lowest eigenstate of the Hamiltonian and CovDer for a given point.";
 
 
-cqmgTSleafDistributionINIT::usage="Initialzation function of cqmgTSleafDistribution; cqmgTSleafDistribution calculates the target space based distribution for a given point.";
+cqmgTSleafDistributionINIT::usage="Initialization function of cqmgTSleafDistribution; cqmgTSleafDistribution calculates the target space based distribution for a given point.";
 
 
 cqmgTSleafDistributionEXTR::usage="Extraction function of cqmgTSleafDistribution; cqmgTSleafDistribution calculates the target space based distribution for a given point.";
 
 
-cqmgQMleafDistributionINIT::usage="Initialzation function of cqmgQMleafDistribution; cqmgQMleafDistribution calculates the quantum manifold based distribution for a given point.";
+cqmgQMleafDistributionINIT::usage="Initialization function of cqmgQMleafDistribution; cqmgQMleafDistribution calculates the quantum manifold based distribution for a given point.";
 
 
 cqmgQMleafDistributionEXTR::usage="Extraction function of cqmgQMleafDistribution; cqmgQMleafDistribution calculates the quantum manifold based distribution for a given point.";
 
 
-cqmgGQMleafDistributionINIT::usage="Initialzation function of cqmgQMleafDistribution; cqmgQMleafDistribution calculates the quantum manifold and g based distribution for a given point.";
+cqmgGQMleafDistributionINIT::usage="Initialization function of cqmgQMleafDistribution; cqmgQMleafDistribution calculates the quantum manifold and g based distribution for a given point.";
 
 
 cqmgGQMleafDistributionEXTR::usage="Extraction function of cqmgQMleafDistribution; cqmgQMleafDistribution calculates the quantum manifold and g based distribution for a given point.";
@@ -158,19 +158,19 @@ cqmgGQMleafDistributionEXTR::usage="Extraction function of cqmgQMleafDistributio
 cqmgDistribution::usage="Unification of cqmgTSleafDistribution, cqmgQMleafDistribution and cqmgGQMleafDistribution; calculates the distribution for a given point.";
 
 
-cqmgTSleafCurveIterationINIT::usage="Initialzation function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the target space based distribution.";
+cqmgTSleafCurveIterationINIT::usage="Initialization function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the target space based distribution.";
 
 
 cqmgTSleafCurveIterationEXTR::usage="Extraction function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the target space based distribution.";
 
 
-cqmgQMleafCurveIterationINIT::usage="Initialzation function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold based distribution.";
+cqmgQMleafCurveIterationINIT::usage="Initialization function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold based distribution.";
 
 
 cqmgQMleafCurveIterationEXTR::usage="Extraction function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold based distribution.";
 
 
-cqmgGQMleafCurveIterationINIT::usage="Initialzation function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold and g based distribution.";
+cqmgGQMleafCurveIterationINIT::usage="Initialization function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold and g based distribution.";
 
 
 cqmgGQMleafCurveIterationEXTR::usage="Extraction function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold and g based distribution.";
@@ -179,19 +179,19 @@ cqmgGQMleafCurveIterationEXTR::usage="Extraction function of cqmgTSleafCurveIter
 cqmgCurveIntegration::usage="Unified function; calculates a curve in the chosen distribution.";
 
 
-cqmgTSleafCurveIterationNullINIT::usage="Initialzation function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the target space based distribution in orthogonal (null) direction.";
+cqmgTSleafCurveIterationNullINIT::usage="Initialization function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the target space based distribution in orthogonal (null) direction.";
 
 
 cqmgTSleafCurveIterationNullEXTR::usage="Extraction function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the target space based distribution in orthogonal (null) direction.";
 
 
-cqmgQMleafCurveIterationNullINIT::usage="Initialzation function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold based distribution in orthogonal (null) direction.";
+cqmgQMleafCurveIterationNullINIT::usage="Initialization function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold based distribution in orthogonal (null) direction.";
 
 
 cqmgQMleafCurveIterationNullEXTR::usage="Extraction function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold based distribution in orthogonal (null) direction.";
 
 
-cqmgGQMleafCurveIterationNullINIT::usage="Initialzation function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold and g based distribution in orthogonal (null) direction.";
+cqmgGQMleafCurveIterationNullINIT::usage="Initialization function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold and g based distribution in orthogonal (null) direction.";
 
 
 cqmgGQMleafCurveIterationNullEXTR::usage="Extraction function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold and g based distribution in orthogonal (null) direction.";
@@ -200,19 +200,19 @@ cqmgGQMleafCurveIterationNullEXTR::usage="Extraction function of cqmgTSleafCurve
 cqmgCurveIntegrationNull::usage="Unified function; calculates a curve in the chosen distribution in orthogonal (null) direction.";
 
 
-cqmgTSleafCurveIterationAdaptiveNullINIT::usage="Initialzation function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the target space based distribution in orthogonal (null) direction and with variable length.";
+cqmgTSleafCurveIterationAdaptiveNullINIT::usage="Initialization function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the target space based distribution in orthogonal (null) direction and with variable length.";
 
 
 cqmgTSleafCurveIterationAdaptiveNullEXTR::usage="Extraction function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the target space based distribution in orthogonal (null) direction and with variable length.";
 
 
-cqmgQMleafCurveIterationAdaptiveNullINIT::usage="Initialzation function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold based distribution in orthogonal (null) direction and with variable length.";
+cqmgQMleafCurveIterationAdaptiveNullINIT::usage="Initialization function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold based distribution in orthogonal (null) direction and with variable length.";
 
 
 cqmgQMleafCurveIterationAdaptiveNullEXTR::usage="Extraction function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold based distribution in orthogonal (null) direction and with variable length.";
 
 
-cqmgGQMleafCurveIterationAdaptiveNullINIT::usage="Initialzation function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold and g based distribution in orthogonal (null) direction and with variable length.";
+cqmgGQMleafCurveIterationAdaptiveNullINIT::usage="Initialization function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold and g based distribution in orthogonal (null) direction and with variable length.";
 
 
 cqmgGQMleafCurveIterationAdaptiveNullEXTR::usage="Extraction function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold and g based distribution in orthogonal (null) direction and with variable length.";
@@ -221,16 +221,16 @@ cqmgGQMleafCurveIterationAdaptiveNullEXTR::usage="Extraction function of cqmgTSl
 cqmgMinimizeLambda::usage="Unified function; finds the minimum of lambda in the orthogonal direction to the chosen distribution.";
 
 
-cqmgScan::usage="SeedRandom in advance recommend; Scans the chosen leaf via random curves.";
+cqmgScan::usage="SeedRandom in advance recommended; Scans the chosen leaf via random curves.";
 
 
 cqmgCoordinates::usage="Constructs local coordinates for the chosen leaf.";
 
 
-cqmgPointToolsINIT::usage="For internal use; initialzation function of cqmgPointInTileQ, cqmgPointsInTile, cqmgFindOptimalPointInTile and cqmgFilledTileQ; these perform important calculations in the context of tilings.";
+cqmgPointToolsINIT::usage="For internal use; Initialzation function of cqmgPointInTileQ, cqmgPointsInTile, cqmgFindOptimalPointInTile and cqmgFilledTileQ; these perform important calculations in the context of tilings.";
 
 
-cqmgIntegrandsINIT::usage="For internal use; initialzation function of cqmgIntegrands; cqmgIntegrands calculates the integrands for integration over the chosen leaf.";
+cqmgIntegrandsINIT::usage="For internal use; Initialzation function of cqmgIntegrands; cqmgIntegrands calculates the integrands for integration over the chosen leaf.";
 
 
 cqmgIntegrateTile::usage="Integrates over a given tile.";
@@ -251,7 +251,7 @@ cqmgIntegrateTilingPreview::usage="Preview of cqmgIntegrateTiling; only calculat
 cqmgCustomIntegrateTiling::usage="Integrates custom functions over a tiling via the output of cqmgIntegrateTiling.";
 
 
-cqmgKaehlerCostINIT::usage="Initialzation function of cqmgKaehlerCost; cqmgKaehlerCost calculates the K\[ADoubleDot]hler cost for a given linear subspace of the tangent space.";
+cqmgKaehlerCostINIT::usage="Initialization function of cqmgKaehlerCost; cqmgKaehlerCost calculates the K\[ADoubleDot]hler cost for a given linear subspace of the tangent space.";
 
 
 cqmgKaehlerCostEXTR::usage="Extraction function of cqmgKaehlerCost; cqmgKaehlerCost calculates the K\[ADoubleDot]hler cost for a given linear subspace of the tangent space.";
@@ -263,16 +263,16 @@ cqmgKaehler::usage="Simplified function built on cqmgKaehlerCost; calculates the
 cqmgKaehlerForLeaf::usage="Calculates the K\[ADoubleDot]hler cost for the chosen leaf.";
 
 
-cqmgKaehlerForRandom::usage="SeedRandom in advance recommend; calculates the K\[ADoubleDot]hler cost for random subspaces.";
+cqmgKaehlerForRandom::usage="SeedRandom in advance recommended; calculates the K\[ADoubleDot]hler cost for random subspaces.";
 
 
-cqmgComparePoissonStructures::usage="Calculates the Poisson structure induced by omega in the form of theta.";
+cqmgComparePoissonStructures::usage="Calculates the Poisson structure induced by omega in the form of theta for a given point.";
 
 
-cqmgQuantizationValidation::usage="SeedRandom in advance recommend; Performs various checks that validate the quality of semiclassical limit based on the output of cqmgIntegrateTiling.";
+cqmgQuantizationValidation::usage="SeedRandom in advance recommended; performs various checks that validate the quality of the semiclassical limit based on the output of cqmgIntegrateTiling.";
 
 
-cqmgQuantizationValidationPresent::usage="SeedRandom in advance recommend; constructs a table with the most interesting output of cqmgQuantizationValidation.";
+cqmgQuantizationValidationPresent::usage="SeedRandom in advance recommended; constructs a table with the most interesting output of cqmgQuantizationValidation.";
 
 
 Begin["`Private`"];

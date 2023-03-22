@@ -35,7 +35,7 @@ qmgXsu3::usage="Generates the matrix configuration of the fuzzy CP2.";
 qmgXcs::usage="Generates the matrix configuration of the fuzzy torus.";
 
 
-qmgXrand::usage="SeedRandom in advance recommend; generates a random matrix configuration.";
+qmgXrand::usage="SeedRandom in advance recommended; generates a random matrix configuration.";
 
 
 qmgxCartesianCoordinates::usage="Generates Cartesian coordinate lines in target space.";
@@ -50,10 +50,10 @@ qmgx3DSphericalCoordinatesSector::usage="Generates a sector of three dimensional
 qmgxSplitHemispheres::usage="Splits given points in target space into the upper and lower hemisphere.";
 
 
-qmgxRandomBall::usage="SeedRandom in advance recommend; Generates random points in a ball in target space.";
+qmgxRandomBall::usage="SeedRandom in advance recommend; generates random points in a ball in target space.";
 
 
-qmgxRandomCube::usage="SeedRandom in advance recommend; Generates random points in a cube in target space.";
+qmgxRandomCube::usage="SeedRandom in advance recommend; generates random points in a cube in target space.";
 
 
 Begin["`Private`"];
@@ -85,7 +85,7 @@ If[Normalized,X,{J1,J2,J3}]
 
 
 (*
-The following function has been derived from https://arxiv.org/abs/0908.3864 by Richard Shurtleff, licensed under CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode.txt.
+The following function has been derived from https://arxiv.org/abs/0908.3864 by Richard Shurtleff, licensed under CC-BY-4.0 (see https://creativecommons.org/licenses/by/4.0/legalcode.txt).
 *)
 
 
