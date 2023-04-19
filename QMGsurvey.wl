@@ -185,16 +185,16 @@ cqmgTSleafCurveIterationNullINIT::usage="Initialization function of cqmgTSleafCu
 cqmgTSleafCurveIterationNullEXTR::usage="Extraction function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the target space based distribution in orthogonal (null) direction.";
 
 
-cqmgQMleafCurveIterationNullINIT::usage="Initialization function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold based distribution in orthogonal (null) direction.";
+cqmgQMleafCurveIterationNullINIT::usage="Initialization function of cqmgQMleafCurveIteration; cqmgQMleafCurveIteration calculates a step in the quantum manifold based distribution in orthogonal (null) direction.";
 
 
-cqmgQMleafCurveIterationNullEXTR::usage="Extraction function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold based distribution in orthogonal (null) direction.";
+cqmgQMleafCurveIterationNullEXTR::usage="Extraction function of cqmgQMleafCurveIteration; cqmgQMleafCurveIteration calculates a step in the quantum manifold based distribution in orthogonal (null) direction.";
 
 
-cqmgGQMleafCurveIterationNullINIT::usage="Initialization function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold and g based distribution in orthogonal (null) direction.";
+cqmgGQMleafCurveIterationNullINIT::usage="Initialization function of cqmgGQMleafCurveIteration; cqmgGQMleafCurveIteration calculates a step in the quantum manifold and g based distribution in orthogonal (null) direction.";
 
 
-cqmgGQMleafCurveIterationNullEXTR::usage="Extraction function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold and g based distribution in orthogonal (null) direction.";
+cqmgGQMleafCurveIterationNullEXTR::usage="Extraction function of cqmgGQMleafCurveIteration; cqmgGQMleafCurveIteration calculates a step in the quantum manifold and g based distribution in orthogonal (null) direction.";
 
 
 cqmgCurveIntegrationNull::usage="Unified function; calculates a curve in the chosen distribution in orthogonal (null) direction.";
@@ -206,16 +206,16 @@ cqmgTSleafCurveIterationAdaptiveNullINIT::usage="Initialization function of cqmg
 cqmgTSleafCurveIterationAdaptiveNullEXTR::usage="Extraction function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the target space based distribution in orthogonal (null) direction and with variable length.";
 
 
-cqmgQMleafCurveIterationAdaptiveNullINIT::usage="Initialization function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold based distribution in orthogonal (null) direction and with variable length.";
+cqmgQMleafCurveIterationAdaptiveNullINIT::usage="Initialization function of cqmgQMleafCurveIteration; cqmgQMleafCurveIteration calculates a step in the quantum manifold based distribution in orthogonal (null) direction and with variable length.";
 
 
-cqmgQMleafCurveIterationAdaptiveNullEXTR::usage="Extraction function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold based distribution in orthogonal (null) direction and with variable length.";
+cqmgQMleafCurveIterationAdaptiveNullEXTR::usage="Extraction function of cqmgQMleafCurveIteration; cqmgQMleafCurveIteration calculates a step in the quantum manifold based distribution in orthogonal (null) direction and with variable length.";
 
 
-cqmgGQMleafCurveIterationAdaptiveNullINIT::usage="Initialization function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold and g based distribution in orthogonal (null) direction and with variable length.";
+cqmgGQMleafCurveIterationAdaptiveNullINIT::usage="Initialization function of cqmgGQMleafCurveIteration; cqmgGQMleafCurveIteration calculates a step in the quantum manifold and g based distribution in orthogonal (null) direction and with variable length.";
 
 
-cqmgGQMleafCurveIterationAdaptiveNullEXTR::usage="Extraction function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold and g based distribution in orthogonal (null) direction and with variable length.";
+cqmgGQMleafCurveIterationAdaptiveNullEXTR::usage="Extraction function of cqmgGQMleafCurveIteration; cqmgGQMleafCurveIteration calculates a step in the quantum manifold and g based distribution in orthogonal (null) direction and with variable length.";
 
 
 cqmgMinimizeLambda::usage="Unified function; finds the minimum of lambda in the orthogonal direction to the chosen distribution.";
