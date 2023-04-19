@@ -164,16 +164,16 @@ cqmgTSleafCurveIterationINIT::usage="Initialization function of cqmgTSleafCurveI
 cqmgTSleafCurveIterationEXTR::usage="Extraction function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the target space based distribution.";
 
 
-cqmgQMleafCurveIterationINIT::usage="Initialization function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold based distribution.";
+cqmgQMleafCurveIterationINIT::usage="Initialization function of cqmgQMleafCurveIteration; cqmgQMleafCurveIteration calculates a step in the quantum manifold based distribution.";
 
 
-cqmgQMleafCurveIterationEXTR::usage="Extraction function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold based distribution.";
+cqmgQMleafCurveIterationEXTR::usage="Extraction function of cqmgQMleafCurveIteration; cqmgQMleafCurveIteration calculates a step in the quantum manifold based distribution.";
 
 
-cqmgGQMleafCurveIterationINIT::usage="Initialization function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold and g based distribution.";
+cqmgGQMleafCurveIterationINIT::usage="Initialization function of cqmgGQMleafCurveIteration; cqmgGQMleafCurveIteration calculates a step in the quantum manifold and g based distribution.";
 
 
-cqmgGQMleafCurveIterationEXTR::usage="Extraction function of cqmgTSleafCurveIteration; cqmgTSleafCurveIteration calculates a step in the quantum manifold and g based distribution.";
+cqmgGQMleafCurveIterationEXTR::usage="Extraction function of cqmgGQMleafCurveIteration; cqmgGQMleafCurveIteration calculates a step in the quantum manifold and g based distribution.";
 
 
 cqmgCurveIntegration::usage="Unified function; calculates a curve in the chosen distribution.";
