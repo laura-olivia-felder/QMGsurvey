@@ -149,10 +149,10 @@ cqmgQMleafDistributionINIT::usage="Initialization function of cqmgQMleafDistribu
 cqmgQMleafDistributionEXTR::usage="Extraction function of cqmgQMleafDistribution; cqmgQMleafDistribution calculates the quantum manifold based distribution for a given point.";
 
 
-cqmgGQMleafDistributionINIT::usage="Initialization function of cqmgQMleafDistribution; cqmgQMleafDistribution calculates the quantum manifold and g based distribution for a given point.";
+cqmgGQMleafDistributionINIT::usage="Initialization function of cqmgGQMleafDistribution; cqmgGQMleafDistribution calculates the quantum manifold and g based distribution for a given point.";
 
 
-cqmgGQMleafDistributionEXTR::usage="Extraction function of cqmgQMleafDistribution; cqmgQMleafDistribution calculates the quantum manifold and g based distribution for a given point.";
+cqmgGQMleafDistributionEXTR::usage="Extraction function of cqmgGQMleafDistribution; cqmgGQMleafDistribution calculates the quantum manifold and g based distribution for a given point.";
 
 
 cqmgDistribution::usage="Unification of cqmgTSleafDistribution, cqmgQMleafDistribution and cqmgGQMleafDistribution; calculates the distribution for a given point.";
