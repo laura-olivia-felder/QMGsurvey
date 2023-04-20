@@ -1622,7 +1622,10 @@ TileNonempty=False;(*the given tile is empty*)
 FilledTileQ=True;(*for compatibility we set this to True eventhough it does not make sense conceptually*)
 xsCoordinatesInTile={};(*therefore we can not calculate coordinate points*)
 CompletenessTile=ConstantArray[0,{Nim,Nim}];(*for compatibility we set this to zero in the appropriate shape*)
-xBoldQuantizationTile=ConstantArray[0,{Dim,Nim,Nim}](*for compatibility we set this to zero in the appropriate shape*)
+xBoldQuantizationTile=ConstantArray[0,{Dim,Nim,Nim}];(*for compatibility we set this to zero in the appropriate shape*)
+xsCoordinatesInTile={};(*for compatibility we set this to {}*)
+xsEigStatInTile={};(*for compatibility we set this to {}*)
+xsIntegrandInTile={}(*for compatibility we set this to {}*)
 )];
 {{CompletenessTile,xBoldQuantizationTile},{xsCoordinatesInTile,xsEigStatInTile,xsIntegrandInTile},{TileNonempty,xsInTileNumber,FilledTileQ}}
 )
