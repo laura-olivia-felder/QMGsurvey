@@ -12,11 +12,13 @@ The file QMGxX.wl can be used to construct points in target space and matrix con
 
 The folder "examples" contains many examples, demonstrating and explaining the usage of QMGsurvey.wl and QMGxX.wl.
 
+The folder "documentation" keeps a copy of the wiki-based documentation.
+
 In order to use QMGsurvey.wl and QMGxX.wl, these have to be imported into a Mathematica notebook or similar.
 
 ### Documentation
 
-For further documentation, see [the wiki](https://github.com/laurinjfelder/QMGsurvey/wiki) (the folder documentation only keeps copys thereof).
+For further documentation, see [the wiki](https://github.com/laurinjfelder/QMGsurvey/wiki).
 
 ## Contact
 
