@@ -1,4 +1,4 @@
-# Compiled Basic Calculations 
+# Compiled Basic Calculations
 
 ## cqmgLightweight\*
 
