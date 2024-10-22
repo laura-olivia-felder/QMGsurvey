@@ -1,4 +1,4 @@
-# Compiled Distributions 
+# Compiled Distributions
 
 ## cqmgTSleafDistribution\*
 
