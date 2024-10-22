@@ -21,8 +21,8 @@ Notebook[{
 Cell[BoxData[
  RowBox[{"(*", "\n", "   ", 
   RowBox[{
-   RowBox[{"Copyright", " ", "2023", " ", "Laurin", " ", 
-    RowBox[{"J", ".", " ", "Felder"}], "\n", "\n", "   ", "Licensed", " ", 
+   RowBox[{"Copyright", " ", "2023", " ", "Laura", " ", 
+    RowBox[{"O", ".", " ", "Felder"}], "\n", "\n", "   ", "Licensed", " ", 
     "under", " ", "the", " ", "Apache", " ", "License"}], ",", " ", 
    RowBox[{
     RowBox[{"Version", " ", "2.0", " ", 
@@ -75,14 +75,14 @@ Cell[BoxData[
          RowBox[{"https", ":"}]}], "//", 
         RowBox[{
          RowBox[{
-          RowBox[{"github", ".", "com"}], "/", "laurinjfelder"}], "/", 
+          RowBox[{"github", ".", "com"}], "/", "laura-olivia-felder"}], "/", 
          "QMGsurvey"}]}], ")"}], ".", "\n", "See"}], " ", 
      RowBox[{"https", ":"}]}], "//", 
     RowBox[{
      RowBox[{
       RowBox[{
        RowBox[{
-        RowBox[{"github", ".", "com"}], "/", "laurinjfelder"}], "/", 
+        RowBox[{"github", ".", "com"}], "/", "laura-olivia-felder"}], "/", 
        "QMGsurvey"}], "/", "wiki"}], " ", "for", " ", "more", " ", 
      "information", " ", "and", " ", 
      RowBox[{"documentation", ".", "\n", "QMGsurvey"}], " ", "is", " ", "a", 
