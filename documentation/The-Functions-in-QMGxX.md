@@ -1,4 +1,4 @@
-# Matrix Configurations 
+# Matrix Configurations
 
 ## qmgXsu2
 _Generates the matrix configuration of the fuzzy sphere._
