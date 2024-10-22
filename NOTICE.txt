@@ -1,6 +1,6 @@
-Copyright 2023 Laurin J. Felder.
+Copyright 2024 Laura O. Felder.
 
-This software package (QMGsurvey, released at https://github.com/laurinjfelder/QMGsurvey).
+This software package (QMGsurvey, released at https://github.com/laura-olivia-felder/QMGsurvey).
 QMGsurvey is a Mathematica based program that can be used to analyse quantum matrix geometries, based on the algorithms from https://arxiv.org/abs/2301.10206.
 
 The file QMGxX.wl (licensed under CC-BY-4.0) is partially derived from https://arxiv.org/abs/0908.3864 by Richard Shurtleff, also licensed under CC-BY-4.0 (see https://creativecommons.org/licenses/by/4.0/legalcode.txt).
