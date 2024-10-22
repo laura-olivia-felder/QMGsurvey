@@ -1,7 +1,7 @@
 (* ::Package:: *)
 
 (*
-   Copyright 2023 Laurin J. Felder
+   Copyright 2024 Laura O. Felder
 
    This work is licensed under the Creative Commons Attribution 4.0 International License.
    To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
@@ -9,8 +9,8 @@
 
 
 (*
-This file is part of the software package QMGsurvey (released at https://github.com/laurinjfelder/QMGsurvey).
-See https://github.com/laurinjfelder/QMGsurvey/wiki for more information and documentation.
+This file is part of the software package QMGsurvey (released at https://github.com/laura-olivia-felder/QMGsurvey).
+See https://github.com/laura-olivia-felder/QMGsurvey/wiki for more information and documentation.
 QMGsurvey is a Mathematica based program that can be used to analyse quantum matrix geometries, based on the algorithms from https://arxiv.org/abs/2301.10206.
 *)
 
