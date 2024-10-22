@@ -1,4 +1,4 @@
-# Compiled Scan
+# Compiled Scan 
 
 ## cqmgScan
 _SeedRandom in advance recommended; Scans the chosen leaf via random curves._
