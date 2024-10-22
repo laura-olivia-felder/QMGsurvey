@@ -1,4 +1,4 @@
-# Preparation
+# Preparation 
 
 ## MatrixRankWORKAROUND
 _For internal use; provides a workaround for MatrixRank that gives zero if the matrix almost vanishes._
