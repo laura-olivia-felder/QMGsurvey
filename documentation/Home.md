@@ -74,17 +74,17 @@ list[[2]]
 are written with round brackets as in list(2).
 
 The Mathematica package QMGsurvey.wl contains functions presented in:
-* [The Functions in QMGsurvey I](https://github.com/laurinjfelder/QMGsurvey/wiki/The-Functions-in-QMGsurvey-I)
-* [The Functions in QMGsurvey II](https://github.com/laurinjfelder/QMGsurvey/wiki/The-Functions-in-QMGsurvey-II)
-* [The Functions in QMGsurvey III](https://github.com/laurinjfelder/QMGsurvey/wiki/The-Functions-in-QMGsurvey-III)
-* [The Functions in QMGsurvey IV](https://github.com/laurinjfelder/QMGsurvey/wiki/The-Functions-in-QMGsurvey-IV)
+* [The Functions in QMGsurvey I](https://github.com/laura-olivia-felder/QMGsurvey/wiki/The-Functions-in-QMGsurvey-I)
+* [The Functions in QMGsurvey II](https://github.com/laura-olivia-felder/QMGsurvey/wiki/The-Functions-in-QMGsurvey-II)
+* [The Functions in QMGsurvey III](https://github.com/laura-olivia-felder/QMGsurvey/wiki/The-Functions-in-QMGsurvey-III)
+* [The Functions in QMGsurvey IV](https://github.com/laura-olivia-felder/QMGsurvey/wiki/The-Functions-in-QMGsurvey-IV)
 
 The last are either internal functions or functions that are mainly there for other functions to build uppon.
 
 This package contains the most important functions that build the core of QMGsurvey.
 The Mathematica package QMGxX.wl contains functions presented in:
-* [The Functions in QMGxX](https://github.com/laurinjfelder/QMGsurvey/wiki/The-Functions-in-QMGxX)
+* [The Functions in QMGxX](https://github.com/laura-olivia-felder/QMGsurvey/wiki/The-Functions-in-QMGxX)
 
 The functions in this package allow for the construction of certain matrix configurations and points in target space.
 The general scheme of compiled functions is explained in:
-* [Using Compiled Functions](https://github.com/laurinjfelder/QMGsurvey/wiki/Using-Compiled-Functions)
+* [Using Compiled Functions](https://github.com/laura-olivia-felder/QMGsurvey/wiki/Using-Compiled-Functions)
